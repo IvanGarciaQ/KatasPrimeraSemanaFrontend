@@ -3,8 +3,7 @@ Katas de toma de requerimientos y enfocar a nuestro publico objetivo
 
 En este repositorio tendremos informacion sobre
 
-#Toma de requerimientos 
-Crea tu buyer persona 
+# Toma de requerimientos 
 
 Publico objetivo https://miro.com/app/board/uXjVOIxGHGE=/?invite_link_id=327794918802
 
